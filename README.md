@@ -18,6 +18,8 @@ Preprint: http://arxiv.org/abs/2009.14240
 
 The work was funded by the Supergen Energy Networks hub, EPSRC grant no. EP/S00078X/1.
 
+A tutorial describing the practicalities of working with the models is available here: https://www.youtube.com/watch?v=MuryNN0gkvE
+
 Comments & feedback welcome!
 
 ---
